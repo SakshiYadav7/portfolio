@@ -1,0 +1,21 @@
+body
+{
+	  background-color: black;
+	text-align: center;
+
+}
+h1
+{
+	color:white;
+  text-shadow: 4px 3px blue;
+}
+
+a{
+	text-align:center;
+}
+p
+{
+  color:pink;
+  text-shadow: 3px 2px blue;
+}
+
